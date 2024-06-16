@@ -142,7 +142,7 @@ ul{
 }
 .row{
     height:60%;
-    width: 45%;
+    width: 90%;
 }
 
 .wcu{
@@ -154,7 +154,7 @@ ul{
 .row-p{  
     margin-top:10px;
     font-size:17px;
-    text-align: right;
+    text-align: center;
 }
 .long-box{
     height: 70vh;
